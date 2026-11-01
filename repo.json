@@ -3,7 +3,7 @@
         "Author":  "jeffrick-cloud",
         "Name":  "XivCinema",
         "InternalName":  "XivCinema",
-        "AssemblyVersion":  "0.1.2.0",
+        "AssemblyVersion":  "0.1.3.0",
         "Description":  "Play video with your party in sync, on a floating window or a screen placed in the game world. The host provides the video; viewers just install the plugin and click Join.",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/jeffrick-cloud/XivCinema-releases",
@@ -19,13 +19,13 @@
         "LoadPriority":  0,
         "Punchline":  "The player for players: synced watch parties on a 2D window or a 3D screen in the world.",
         "AcceptsFeedback":  true,
-        "IconUrl":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.2/icon.png",
-        "DownloadLinkInstall":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.2/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.2/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.2/latest.zip",
+        "IconUrl":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.3/icon.png",
+        "DownloadLinkInstall":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.3/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.3/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.3/latest.zip",
         "IsHide":  false,
         "IsTestingExclusive":  false,
-        "LastUpdate":  1793504703,
-        "Changelog":  "Fixes YouTube videos sometimes not starting (Load \u0026 Play did nothing). The player now explains when a site refuses a stream."
+        "LastUpdate":  1793537536,
+        "Changelog":  "0.1.3: The host can make viewers co-hosts (play, pause, seek, stop, load links and magnets, move the screen). Experimental in-frame rendering option (off by default). Viewers on 0.1.2 keep working."
     }
 ]
