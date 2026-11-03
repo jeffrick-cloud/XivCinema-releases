@@ -3,7 +3,7 @@
         "Author":  "jeffrick-cloud",
         "Name":  "XivCinema",
         "InternalName":  "XivCinema",
-        "AssemblyVersion":  "0.1.7.0",
+        "AssemblyVersion":  "0.1.8.0",
         "Description":  "Play video with your party in sync, on a floating window or a screen placed in the game world. The host provides the video; viewers just install the plugin and click Join.",
         "ApplicableVersion":  "any",
         "RepoUrl":  "https://github.com/jeffrick-cloud/XivCinema-releases",
@@ -19,13 +19,13 @@
         "LoadPriority":  0,
         "Punchline":  "The player for players: synced watch parties on a 2D window or a 3D screen in the world.",
         "AcceptsFeedback":  true,
-        "IconUrl":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.7/icon.png",
-        "DownloadLinkInstall":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.7/latest.zip",
-        "DownloadLinkUpdate":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.7/latest.zip",
-        "DownloadLinkTesting":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.7/latest.zip",
+        "IconUrl":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.8/icon.png",
+        "DownloadLinkInstall":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.8/latest.zip",
+        "DownloadLinkUpdate":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.8/latest.zip",
+        "DownloadLinkTesting":  "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.8/latest.zip",
         "IsHide":  false,
         "IsTestingExclusive":  false,
-        "LastUpdate":  1793704325,
-        "Changelog":  "Watch party: viewers\u0027 audio no longer pops or repeats a moment while staying in sync (gentler speed corrections)."
+        "LastUpdate":  1793706232,
+        "Changelog":  "Twitch: channels that Twitch sends in its newer video format (for example AdmiralBulldog) now play instead of failing to load."
     }
 ]
